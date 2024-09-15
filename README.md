@@ -1,2 +1,3 @@
-# mod2_tarefa
-Exercício do módulo 2
+# Exercícios dos módulos do curso Formação Cientista de Dados
+
+EBAC
