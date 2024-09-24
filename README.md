@@ -23,4 +23,4 @@ VIII Modelagem estatística e Regressão com Python -> Módulo 32 ao 35
 
 IX Modelagem de Dados Categorizados -> Módulo 36 ao 38
 
-X: SQL para Análise de Dados -> Módulo 1 ao 8
+X SQL para Análise de Dados -> Módulo 1 ao 8
