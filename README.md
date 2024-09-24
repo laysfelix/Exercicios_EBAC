@@ -1,3 +1,3 @@
-# Exercícios dos módulos do curso Formação Cientista de Dados
+### Exercícios realizados no curso Formação Cientista de Dados
 
 EBAC
